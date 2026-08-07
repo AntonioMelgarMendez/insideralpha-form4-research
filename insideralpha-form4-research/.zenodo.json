@@ -1,0 +1,28 @@
+{
+  "title": "InsiderAlpha Form 4 Research: Purchases Relative to Existing Holdings",
+  "description": "Code, notebook and public sample workflow for an observational study of insider purchase size relative to reported post-transaction holdings.",
+  "creators": [
+    {
+      "name": "Melgar Mendez, Daniel Antonio",
+      "affiliation": "InsiderAlpha Research"
+    }
+  ],
+  "license": "mit",
+  "keywords": [
+    "SEC Form 4",
+    "insider purchases",
+    "event study",
+    "reproducible research",
+    "financial data"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://insider-alpha.com/blog/2026-08-04-insider-purchase-size-relative-to-holdings",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ],
+  "upload_type": "software",
+  "access_right": "open"
+}
+

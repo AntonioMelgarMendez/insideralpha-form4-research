@@ -1,0 +1,27 @@
+{
+  "product": "InsiderAlpha SEC Form 4 Research Database",
+  "artifact": "free_sample",
+  "schema_version": "2.0.0",
+  "source_release_generated_at": "2026-07-25T00:48:16.862281+00:00",
+  "source_release_rows": 1630478,
+  "sample_rows": 10000,
+  "column_count": 64,
+  "sampling_method": "deterministic_evenly_spaced_release_positions",
+  "statistically_random": false,
+  "generated_at": "2026-07-26T19:03:20+00:00",
+  "license_updated_at": "2026-08-06T00:00:00+00:00",
+  "data_license": "CC-BY-4.0",
+  "attribution_name": "Daniel Antonio Melgar Mendez and InsiderAlpha Research",
+  "attribution_url": "https://insider-alpha.com/buy-data",
+  "encoding": "UTF-8",
+  "csv_sha256": "b40479d5d9a573b31d91a2c50d9ff48b66e128253365bee087f535bcb7b18c40",
+  "csv_formula_cells_detected": 0,
+  "allowed_archive_extensions": [
+    ".csv",
+    ".json",
+    ".txt"
+  ],
+  "contains_executable_files": false,
+  "contains_macros": false
+}
+

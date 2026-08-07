@@ -1,0 +1,7 @@
+bucket,event_count,issuer_count,median_disclosed_value_usd,median_return_30d_pct,median_return_90d_pct,median_return_180d_pct,positive_return_180d_pct
+Under 1%,2031,210,13063,1.50,4.82,7.16,66.3
+1% to under 5%,1798,315,46645,2.14,3.85,6.92,63.7
+5% to under 20%,1936,376,103804,1.92,5.51,7.47,63.3
+20% to under 50%,1042,337,150501,2.20,5.84,8.22,64.9
+50% to 100%,997,356,186390,1.91,4.25,7.83,65.8
+

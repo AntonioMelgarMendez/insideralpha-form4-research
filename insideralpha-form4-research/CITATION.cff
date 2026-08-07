@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use these research materials, cite the report and this repository."
+title: "InsiderAlpha Form 4 Research: Purchases Relative to Existing Holdings"
+version: 1.0.0
+date-released: 2026-08-06
+type: software
+authors:
+  - family-names: "Melgar Mendez"
+    given-names: "Daniel Antonio"
+    affiliation: "InsiderAlpha Research"
+url: "https://github.com/AntonioMelgarMendez/insideralpha-form4-research"
+repository-code: "https://github.com/AntonioMelgarMendez/insideralpha-form4-research"
+license: MIT
+keywords:
+  - SEC Form 4
+  - insider purchases
+  - event study
+  - reproducible research
+  - financial data
+preferred-citation:
+  type: report
+  title: "A $1M Insider Buy Is Not Always Large: Measuring Purchases Against Existing Holdings"
+  authors:
+    - family-names: "Melgar Mendez"
+      given-names: "Daniel Antonio"
+      affiliation: "InsiderAlpha Research"
+  institution:
+    name: "InsiderAlpha Research"
+  year: 2026
+  month: 8
+  url: "https://insider-alpha.com/blog/2026-08-04-insider-purchase-size-relative-to-holdings"
+
