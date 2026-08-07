@@ -2,7 +2,8 @@ cff-version: 1.2.0
 message: "If you use these research materials, cite the report and this repository."
 title: "InsiderAlpha Form 4 Research: Purchases Relative to Existing Holdings"
 version: 1.0.0
-date-released: 2026-08-06
+doi: "10.5281/zenodo.21843722"
+date-released: 2026-08-07
 type: software
 authors:
   - family-names: "Melgar Mendez"
@@ -10,6 +11,7 @@ authors:
     affiliation: "InsiderAlpha Research"
 url: "https://github.com/AntonioMelgarMendez/insideralpha-form4-research"
 repository-code: "https://github.com/AntonioMelgarMendez/insideralpha-form4-research"
+repository-artifact: "https://doi.org/10.5281/zenodo.21843722"
 license: MIT
 keywords:
   - SEC Form 4
@@ -29,4 +31,3 @@ preferred-citation:
   year: 2026
   month: 8
   url: "https://insider-alpha.com/blog/2026-08-04-insider-purchase-size-relative-to-holdings"
-

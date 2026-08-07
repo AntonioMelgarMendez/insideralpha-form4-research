@@ -1,5 +1,7 @@
 # InsiderAlpha Form 4 Research
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21843722.svg)](https://doi.org/10.5281/zenodo.21843722)
+
 Reproducible research materials for InsiderAlpha studies built from SEC Form 4
 ownership filings.
 
@@ -76,3 +78,7 @@ excluded intentionally. See the report for interpretation and limitations.
 Use `CITATION.cff` or `CITATION.bib`. The repository metadata identifies Daniel
 Antonio Melgar Mendez and InsiderAlpha Research as the responsible author and
 research organization.
+
+> Melgar Mendez, Daniel Antonio. (2026). InsiderAlpha Form 4 Research:
+> Purchases Relative to Existing Holdings (Version 1.0.0). Zenodo.
+> https://doi.org/10.5281/zenodo.21843722
